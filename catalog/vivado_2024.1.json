@@ -2,6 +2,26 @@
   "catalog": {
     "items": [
       {
+        "name": "ebaz4205",
+        "display": "EBAZ4205 Development Board",
+        "latest_revision": "1.0",
+        "commit_id": "cb4a13526e250d6fc5aec070c43276b51967e710",
+        "revisions": [
+          {
+            "revision": "1.0",
+            "commit_id": "cb4a13526e250d6fc5aec070c43276b51967e710",
+            "date": "12-10-2024:15:02:17",
+            "history": "Add files via upload"
+          }
+        ],
+        "config": {
+          "root": "boards/Ebang/ebaz4205/1.0",
+          "metadata_file": "xitem.json"
+        },
+        "company": "miner.ebang.com.cn"
+      },
+    "items": [
+      {
         "name": "picozed_7010_fmc2",
         "display": "PicoZed 7010 SOM + FMC Carrier V2",
         "latest_revision": "1.2",
