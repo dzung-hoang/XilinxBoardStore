@@ -1,0 +1,34 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "ebaz4205",
+          "display": "EBAZ4205 Development Board",
+          "revision": "1.0",
+          "description": "EBAZ4205 is mining board used in Ebang Ebit E9+ bitcoin miner machine. This board features 256MB DDR3 memory, 128MB NAND Flash memory, 10/100MBit Ethernet and speed grade -1 Zynq 7010.",
+          "company": "miner.ebang.com.cn",
+          "company_display": "Ebang",
+          "author": "Dzung Hoang",
+          "contributors": [
+            {
+              "group": "Ebang",
+              "url": "http://miner.ebang.com.cn"
+            }
+          ],
+          "category": "Single Part",
+          "website": "http://miner.ebang.com.cn",
+          "logo": "ebaz4205.jpg",
+          "search-keywords": [
+            "ebaz4205",
+            "miner.ebang.com.cn",
+            "board",
+            "Single Part"
+          ]
+        }
+      }
+    ]
+  },
+  "_major": 1,
+  "_minor": 0
+}
